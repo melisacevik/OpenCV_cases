@@ -1,5 +1,6 @@
 # OpenCV
 ## 🚀 Day 1 
+#### [👉🏻 Project Link](https://github.com/melisacevik/OpenCV_cases/blob/main/Getting_Started_with_Images.ipynb)
 ### 
 - Reading an image file into a data object
 - Check image attributes like datatype and shape
